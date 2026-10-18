@@ -92,4 +92,4 @@ This project is licensed under the MIT License.
 Made with ❤️ for the planet.
 For feedback or collaboration: ecoaware.team@example.com
 
-Last updated: 2026-10-18 21:57 UTC
+Last updated: 2026-10-18 23:49 UTC
